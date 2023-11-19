@@ -1,0 +1,8 @@
+{
+  "tarefa_id": "1",
+  "titulo": "Nova Tarefa",
+  "descricao": "Descrição da nova tarefa",
+  "data": "2023-12-01",
+  "prioridade": "Média",
+  "estado": "Pendente"
+}
