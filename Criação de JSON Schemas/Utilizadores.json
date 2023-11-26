@@ -1,0 +1,13 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "utilizador_id": { "type": "integer" },
+      "utilizador": { "type": "string" },
+      "email": { "type": "string", "format": "email" },
+      "nif": { "type": "string" },
+      "cargo": { "type": "string" }
+    },
+    "required": ["utilizador_id", "utilizador", "email", "nif", "cargo"],
+    "additionalProperties": false
+}
