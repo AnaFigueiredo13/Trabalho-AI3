@@ -1,0 +1,12 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+      "notification_id": { "type": "integer" },
+      "utilizador_id": { "type": "integer" },
+      "nome": { "type": "string" },
+      "texto": { "type": "string" }
+    },
+    "required": ["notification_id", "utilizador_id", "nome", "texto"],
+    "additionalProperties": false
+}
