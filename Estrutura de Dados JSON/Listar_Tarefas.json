@@ -1,0 +1,7 @@
+{
+  "filter": {
+    "utilizador_id": 1,
+    "estado": "Em Progresso",
+    "prioridade": "Alta"
+  }
+}

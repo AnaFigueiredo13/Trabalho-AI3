@@ -1,6 +1,7 @@
-{
-    "notification_id": 1,
-    "utilizador_id": 123,
-    "nome": "utilizador",
-    "texto": "Lembre-se de verificar os requisitos antes de finalizar!"
+  {
+    "notification": {
+      "notification_id": "1",
+      "utilizador_id": 1,
+      "mensagem": "Lembrete: Concluir Projeto até 31 de dezembro."
+    }
   }

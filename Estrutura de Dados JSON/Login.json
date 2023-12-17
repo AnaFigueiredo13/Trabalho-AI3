@@ -1,4 +1,6 @@
 {
-    "utilizador": "joao",
-    "password": "senha_segura"
+  "credentials": {
+    "utilizador": "usuario123",
+    "password": "senha123"
   }
+}

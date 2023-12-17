@@ -1,8 +1,10 @@
 {
-  "tarefa_id": "1",
-  "titulo": "Nova Tarefa",
-  "descricao": "Descrição da nova tarefa",
-  "data": "2023-12-01",
-  "prioridade": "Média",
-  "estado": "Pendente"
+  "tarefa": {
+    "tarefa_id":"1",
+    "titulo": "Concluir Projeto",
+    "descricao": "Concluir a implementação da API de gestão de tarefas",
+    "data": "2023-12-31",
+    "prioridade": "Alta",
+    "estado": "Pendente"
+  }
 }
